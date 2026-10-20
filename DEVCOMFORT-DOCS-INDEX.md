@@ -13,7 +13,6 @@
 |---|---|---|---|---|
 | paperthin (31개 스킬) | 전역 `~/.omp/agent/skills/` | 문서 정돈·검증·의사결정 보조 스킬 묶음(구성은 아래 표). | 사본(원본과 바이트 동일) | 2026-10-20 |
 | matt-skills | 이 디렉터리 기존 항목 | matt 스킬 패키지. | 기존 관리 | 확인 안 됨 |
-| superpowers | 이 디렉터리 기존 항목 | superpowers 스킬 패키지. | 기존 관리 | 확인 안 됨 |
 | ecc | 이 디렉터리 기존 항목 | ecc 스킬 패키지. | 기존 관리 | 확인 안 됨 |
 | emil-skills | 이 디렉터리 기존 항목 | emil 스킬 패키지. | 기존 관리 | 확인 안 됨 |
 | vercel-agent-skills | 이 디렉터리 기존 항목 | vercel agent 스킬 패키지. | 기존 관리 | 확인 안 됨 |
@@ -72,5 +71,5 @@
 
 ## 이번에 건드리지 않은 것
 
-- 다른 스킬 패키지(matt-skills, superpowers, ecc, emil-skills, vercel-agent-skills)와 `install-things`.
+- 다른 스킬 패키지(matt-skills, ecc, emil-skills, vercel-agent-skills)와 `install-things`.
 - 저장소 안의 `.agents/skills` 항목은 복사하지 않았다.
