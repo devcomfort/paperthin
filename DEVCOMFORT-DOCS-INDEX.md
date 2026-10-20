@@ -30,7 +30,7 @@
 | note-quality-criteria | 이 디렉터리 기존 항목 | 노트 초안을 대조하는 일곱 항목 평가 기준과 검토 보고 형식. | 기존 관리 | 확인 안 됨 |
 | learning-document-layout | 이 디렉터리 기존 항목 | 학습·정보 문서의 층과 이름, 페이지 배치 규칙. | 기존 관리 | 확인 안 됨 |
 | record-observation | 이 디렉터리 기존 항목 | 관찰 기록을 명세에 맞게 일관되게 쓰는 절차. | 기존 관리 | 확인 안 됨 |
-| subagent-brief-discipline | 이 디렉터리 기존 항목 | 서브에이전트 브리프·핸드오프에 반드시 담을 내용과 작성 순서. | 기존 관리 | 확인 안 됨 |
+| subagent-handoff-discipline | 이 디렉터리 기존 항목 | 서브에이전트 브리프·핸드오프에 반드시 담을 내용과 작성 순서. | 기존 관리 | 확인 안 됨 |
 | managing-external-sources | 이 디렉터리 기존 항목 | `.sourcerc` 기반으로 외부 스킬의 출처·상류 갱신·반영 여부를 관리한다. | 기존 관리 | 확인 안 됨 |
 
 ## paperthin 세트 구성
