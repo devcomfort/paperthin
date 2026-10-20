@@ -71,5 +71,5 @@
 
 ## 이번에 건드리지 않은 것
 
-- 다른 스킬 패키지(matt-skills, ecc, emil-skills, vercel-agent-skills)와 `install-things`.
+- 다른 스킬 패키지(matt-skills, ecc, emil-skills, vercel-agent-skills).
 - 저장소 안의 `.agents/skills` 항목은 복사하지 않았다.
